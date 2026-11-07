@@ -1,0 +1,163 @@
+{
+  "aircraftType": "E175",
+  "liveryFileName": "PF_E175.png",
+  "pixelSize": 180,
+  "liveryComponent": [
+    {
+      "name": "Fuselage",
+      "layerOrder": 2,
+      "slicePosition": {
+        "x": 0,
+        "y": 7
+      },
+      "sliceSize": {
+        "x": 4095,
+        "y": 392
+      },
+      "position": {
+        "x": -1.58,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1.017657,
+        "y": 1.017657,
+        "z": 1
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "name": "Engine1",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 10,
+        "y": 410
+      },
+      "sliceSize": {
+        "x": 533,
+        "y": 223
+      },
+      "position": {
+        "x": 0.83,
+        "y": 3.022,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "name": "Engine2",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 10,
+        "y": 410
+      },
+      "sliceSize": {
+        "x": 533,
+        "y": 223
+      },
+      "position": {
+        "x": 0.83,
+        "y": -3.022,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "name": "Winglet1",
+      "layerOrder": 2,
+      "slicePosition": {
+        "x": 562,
+        "y": 416
+      },
+      "sliceSize": {
+        "x": 308,
+        "y": 136
+      },
+      "position": {
+        "x": -3.47699,
+        "y": -9.257996,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 1
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "name": "Winglet2",
+      "layerOrder": 2,
+      "slicePosition": {
+        "x": 562,
+        "y": 416
+      },
+      "sliceSize": {
+        "x": 308,
+        "y": 136
+      },
+      "position": {
+        "x": -3.47699,
+        "y": 9.257996,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "isSpecial": false
+}

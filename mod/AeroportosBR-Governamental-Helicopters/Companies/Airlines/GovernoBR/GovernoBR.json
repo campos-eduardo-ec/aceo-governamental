@@ -1,0 +1,46 @@
+{
+  "name": "Brasil Governamental [Aeroportos BR]",
+  "description": "Operadora fictícia de seleção visual: pinturas de instituições brasileiras em modelos compatíveis. Operação comercial normal do jogo.",
+  "customDescription": {
+    "pt-BR": "Operadora fictícia de seleção visual: pinturas de instituições brasileiras em modelos compatíveis. Operação comercial normal do jogo.",
+    "en": "Fictional combined operator for Brazilian government liveries. Uses normal game commercial operations."
+  },
+  "logoPath": "Logo.png",
+  "invLogoPath": "Logo_INV.png",
+  "businessType": 4,
+  "businessClass": 1,
+  "CEOName": "Coordenação de Transportes",
+  "flightPrefix": "BG",
+  "countryCode": "BR",
+  "fleet": [
+    "A319",
+    "E190",
+    "A330200",
+    "CESSNA208",
+    "E175",
+    "AS350",
+    "BELL206"
+  ],
+  "fleetCount": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "isCustom": true,
+  "backgroundColor": {
+    "r": 18,
+    "g": 43,
+    "b": 64,
+    "a": 255
+  },
+  "textColor": {
+    "r": 255,
+    "g": 255,
+    "b": 255,
+    "a": 255
+  }
+}

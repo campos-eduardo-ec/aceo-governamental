@@ -1,0 +1,70 @@
+{
+  "aircraftType": "CESSNA208",
+  "liveryFileName": "PF_Caravan.png",
+  "pixelSize": 250,
+  "liveryComponent": [
+    {
+      "name": "Fuselage",
+      "layerOrder": 1,
+      "slicePosition": {
+        "x": 34,
+        "y": 9
+      },
+      "sliceSize": {
+        "x": 2655,
+        "y": 361
+      },
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": 90,
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Stabilizer",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 2747,
+        "y": 27
+      },
+      "sliceSize": {
+        "x": 1325,
+        "y": 297
+      },
+      "position": {
+        "x": 0,
+        "y": -4.168,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "isSpecial": false
+}

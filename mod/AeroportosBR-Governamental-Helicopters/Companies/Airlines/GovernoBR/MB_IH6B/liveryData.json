@@ -1,0 +1,39 @@
+{
+  "aircraftType": "BELL206",
+  "liveryFileName": "MB_IH6B.png",
+  "pixelSize": 290,
+  "liveryComponent": [
+    {
+      "name": "Fuselage",
+      "layerOrder": 2,
+      "slicePosition": {
+        "x": 89,
+        "y": 55
+      },
+      "sliceSize": {
+        "x": 3914,
+        "y": 836
+      },
+      "flip": {
+        "x": 1,
+        "y": 1
+      },
+      "pivot": {
+        "x": 0.3031407,
+        "y": 0.4981039
+      },
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": 0
+    }
+  ],
+  "isSpecial": false
+}

@@ -1,0 +1,101 @@
+{
+  "aircraftType": "A319",
+  "liveryFileName": "FAB_VC1.png",
+  "pixelSize": 150,
+  "liveryComponent": [
+    {
+      "name": "Fuselage",
+      "layerOrder": 2,
+      "slicePosition": {
+        "x": 0,
+        "y": 3
+      },
+      "sliceSize": {
+        "x": 3956,
+        "y": 437
+      },
+      "position": {
+        "x": -2.29,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Engine1",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 2,
+        "y": 460
+      },
+      "sliceSize": {
+        "x": 487,
+        "y": 220
+      },
+      "position": {
+        "x": 1.63,
+        "y": -4.346,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "name": "Engine2",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 502,
+        "y": 462
+      },
+      "sliceSize": {
+        "x": 486,
+        "y": 220
+      },
+      "position": {
+        "x": 1.63,
+        "y": 4.346,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "isSpecial": false
+}

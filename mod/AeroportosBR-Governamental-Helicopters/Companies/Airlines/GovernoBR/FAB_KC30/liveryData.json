@@ -1,0 +1,194 @@
+{
+  "aircraftType": "A330200",
+  "liveryFileName": "FAB_KC30.png",
+  "pixelSize": 150,
+  "liveryComponent": [
+    {
+      "name": "Fuselage1",
+      "layerOrder": 3,
+      "slicePosition": {
+        "x": 7,
+        "y": 684
+      },
+      "sliceSize": {
+        "x": 3280,
+        "y": 652
+      },
+      "position": {
+        "x": -12.7,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Fuselage2",
+      "layerOrder": 4,
+      "slicePosition": {
+        "x": 5,
+        "y": 3
+      },
+      "sliceSize": {
+        "x": 3904,
+        "y": 652
+      },
+      "position": {
+        "x": 8.78,
+        "y": 0,
+        "z": 0
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "name": "Engine1",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 3364,
+        "y": 1054
+      },
+      "sliceSize": {
+        "x": 722,
+        "y": 356
+      },
+      "position": {
+        "x": 5.584,
+        "y": -6.859,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "name": "Engine2",
+      "layerOrder": 0,
+      "slicePosition": {
+        "x": 3364,
+        "y": 682
+      },
+      "sliceSize": {
+        "x": 722,
+        "y": 356
+      },
+      "position": {
+        "x": 5.584,
+        "y": 6.859,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 0,
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "name": "Winglet1",
+      "layerOrder": 5,
+      "slicePosition": {
+        "x": 3932,
+        "y": 355
+      },
+      "sliceSize": {
+        "x": 156,
+        "y": 311
+      },
+      "position": {
+        "x": -6.8,
+        "y": -22.586,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 270,
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "name": "Winglet2",
+      "layerOrder": 5,
+      "slicePosition": {
+        "x": 3932,
+        "y": 12
+      },
+      "sliceSize": {
+        "x": 156,
+        "y": 311
+      },
+      "position": {
+        "x": -6.8,
+        "y": 22.586,
+        "z": 0
+      },
+      "flip": {
+        "x": 0,
+        "y": 0
+      },
+      "rotation": 90,
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "isSpecial": false
+}

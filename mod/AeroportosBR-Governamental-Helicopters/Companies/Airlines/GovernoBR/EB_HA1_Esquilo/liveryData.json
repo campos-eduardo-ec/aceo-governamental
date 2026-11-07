@@ -1,0 +1,39 @@
+{
+  "aircraftType": "AS350",
+  "liveryFileName": "EB_HA1_Esquilo.png",
+  "pixelSize": 290,
+  "liveryComponent": [
+    {
+      "name": "Fuselage",
+      "layerOrder": 2,
+      "slicePosition": {
+        "x": 7,
+        "y": 11
+      },
+      "sliceSize": {
+        "x": 3974,
+        "y": 1030
+      },
+      "flip": {
+        "x": 1,
+        "y": 1
+      },
+      "pivot": {
+        "x": 0.3174956,
+        "y": 0.49887
+      },
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": 0
+    }
+  ],
+  "isSpecial": false
+}
